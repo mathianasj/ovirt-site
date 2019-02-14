@@ -107,8 +107,6 @@ The following CPU models are supported:
   * Opteron G5
 
 * Intel
-  * Conroe
-  * Penryn
   * Nehalem
   * Westmere
   * Sandybridge
